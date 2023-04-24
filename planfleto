@@ -1,0 +1,74 @@
+# teste
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>document</title>
+
+
+ <style>
+body{
+        background: orange;
+        color:aliceblue;
+     }
+
+.un
+{
+padding: 10px;
+}
+
+.div
+{
+display: flex;
+flex-wrap: nowrap
+}
+
+</style>
+ 
+</head>
+<body>
+
+<div class="div">
+
+<div class="Un">
+	<h1>biscoito</h1>
+<img src="JPEG Image/biscoito1.jpg">
+<h1>R$5,99</h1>
+</div>
+
+<div class="Un">
+	<h1>macarrao</h1>
+<img src="JPEG Image/macarrao2.jpg">
+<h1>R$9,99</h1>
+</div>
+
+<div class="Un">
+	<h1>miojo</h1>
+<img src="JPEG Image/miojo3.jpg">
+<h1>R$2,99</h1>
+</div>
+<div class="div">
+
+</div>
+<div class="div">
+	
+<div class="Un">
+	<h1>refrigerante</h1>
+<img src="JPEG Image/refrigerante4.jpg">
+<h1>R$6,99</h1>
+</div>
+</body>
+
+<div class="Un">
+	<h1>leite</h1>
+<img src="JPEG Image/leite5.jpg">
+<h1>R$5,99</h1>
+</div>
+</body>
+
+<div class="Un">
+	<h1>toddy</h1>
+<img src="JPEG Image/toddy.jpg">
+<h1>R$3,99</h1>
+</div>
+</body>
